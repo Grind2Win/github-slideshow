@@ -1,0 +1,525 @@
+2020-07-13 20:08:15 Other:  Hey tijsje01, welcome to MineSaga!
+2020-07-13 20:08:15 Other: 
+2020-07-13 20:08:15 Other:  You can play Skyblock, Prison or on our Arcade server!
+2020-07-13 20:08:15 Other: 
+2020-07-13 20:08:15 Other:  Walk forwards or use the Nether Star/Server Selector to choose which realm you'd like to play on.
+2020-07-13 20:08:22 Other: You are now queuing for Western.
+2020-07-13 20:08:24 Other:                                      
+2020-07-13 20:08:25 Other: 
+2020-07-13 20:08:25 Other: Welcome to Western.
+2020-07-13 20:08:25 Other: This realm was reset on the 6th of June.
+2020-07-13 20:08:25 Other: 
+2020-07-13 20:08:30 Other: [Buckaroo] Anonymous_9 $ » what do i do 
+2020-07-13 20:08:32 Other: [Wanted] CataclysmAlt Kool-Aid » Have spare value blocks lying around? Sell them @ /is warp Cataclysm_Games! 
+2020-07-13 20:08:33 Other: You have incomplete Missions ready to be completed!
+2020-07-13 20:08:33 Other: Type /missions to view them and their requirements.
+2020-07-13 20:08:35 Other:  
+2020-07-13 20:08:35 Other:  Need assistance from one of our staff?
+2020-07-13 20:08:35 Other:  Sit tight! If you need assistance from our staff, either politely ask one of them in-game, or make a support ticket on our site.
+2020-07-13 20:08:35 Other:  
+2020-07-13 20:08:35 Other:  www.minesaga.net
+2020-07-13 20:08:35 Other:  
+2020-07-13 20:08:39 Other: 
+2020-07-13 20:08:39 Other:  There is a 50% sale active on our store.
+2020-07-13 20:08:39 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-13 20:08:39 Other: 
+2020-07-13 20:08:39 Other:  shop.minesaga.org
+2020-07-13 20:08:45 Other: [Buckaroo] Anonymous_9 $ » what do i do IcySusie 
+2020-07-13 20:08:46 Other: [Wanted] Susie eGirl » kill the mobs 
+2020-07-13 20:08:52 Other: [Buckaroo] Anonymous_9 $ » O 
+2020-07-13 20:08:54 Other: [Buckaroo] Anonymous_9 $ » were 
+2020-07-13 20:08:57 Other: [Wanted] Susie eGirl » go deeper 
+2020-07-13 20:09:06 Other: Unknown command. Type "/help" for help.
+2020-07-13 20:09:18 Other: [Buckaroo] Anonymous_9 $ » k 
+2020-07-13 20:09:35 Other: Lag ┃ Ground items and entities will be cleared in 1m.
+2020-07-13 20:09:36 Other:  
+2020-07-13 20:09:36 Other:  Do you want awesome rewards?
+2020-07-13 20:09:36 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-13 20:09:36 Other:  
+2020-07-13 20:09:36 Other: Fishing Event ┃ The Fishing Event will end in 1 minute.
+2020-07-13 20:09:42 Other: Votes ┃ Hs_KhaleeD voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-13 20:09:48 Other: Votes ┃ Hs_KhaleeD voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-13 20:09:48 Other: Vote Party ┃ 130 more votes are needed for a Vote Party!
+2020-07-13 20:09:56 Other: [Buckaroo] Anonymous_9 $ » they dont die 
+2020-07-13 20:09:56 Other: Unknown command. Type "/help" for help.
+2020-07-13 20:10:11 Other: [Wanted] Susie eGirl » they do :D they are just strong 
+2020-07-13 20:10:25 Other: Jackpot ┃ 49m 58s left until the Jackpot is rolled. The current value is $0.
+2020-07-13 20:10:26 Other: Fishing Event ┃ The Fishing Event will end in 10 seconds.
+2020-07-13 20:10:26 Other: [Buckaroo] Dangerdudez MLG » who wants to do it with me 
+2020-07-13 20:10:33 Other: [Wanted] CataclysmAlt Kool-Aid » Thanks For Supporting Grape Kool-Aid @ /is warp Cataclysm_Games 
+2020-07-13 20:10:35 Other: Lag ┃ Ground items and entities have been cleared!
+2020-07-13 20:10:35 Other: Hey, we noticed you don't have a Discord account linked!
+2020-07-13 20:10:35 Other: You can join our Discord at the link below, and read the #sync channel for more details.
+2020-07-13 20:10:35 Other: 
+2020-07-13 20:10:35 Other: discord.gg/minesaga
+2020-07-13 20:10:35 Other: Envoys ┃ 20m until envoys drop...
+2020-07-13 20:10:35 Other: [Buckaroo] Anonymous_9 $ » why u steal 
+2020-07-13 20:10:36 Other: Fishing Event ┃ Dangerdudez won with 31 fish caught.
+2020-07-13 20:10:36 Other:  
+2020-07-13 20:10:36 Other:  Do you want awesome rewards?
+2020-07-13 20:10:36 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-13 20:10:36 Other:  
+2020-07-13 20:10:36 Other: [Buckaroo] Dangerdudez MLG » the cave 
+2020-07-13 20:10:40 Other: 
+2020-07-13 20:10:40 Other:  There is a 50% sale active on our store.
+2020-07-13 20:10:40 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-13 20:10:40 Other: 
+2020-07-13 20:10:40 Other:  shop.minesaga.org
+2020-07-13 20:10:47 Other: Unknown command. Type "/help" for help.
+2020-07-13 20:10:52 Other: [Buckaroo] Dangerdudez MLG » how long ago was the last limited time shop - no one has told me :( 
+2020-07-13 20:11:24 Other: ElNiveek_ » which is better, dungeon or cave? 
+2020-07-13 20:11:25 Other: Votes ┃ Hs_KhaleeD voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-13 20:11:35 Other: Lag ┃ Ground items and entities will be cleared in 4m.
+2020-07-13 20:11:36 Other:  
+2020-07-13 20:11:36 Other:  Have some spare cash?
+2020-07-13 20:11:36 Other:  We have a store that offers ranks, crates, crate keys, and much more. You can visit the store by clicking the link below.
+2020-07-13 20:11:36 Other:  
+2020-07-13 20:11:36 Other:  shop.minesaga.net
+2020-07-13 20:11:36 Other:  
+2020-07-13 20:11:36 Other: [Buckaroo] Anonymous_9 $ » im not getting anything 
+2020-07-13 20:11:37 Other: Unknown command. Type "/help" for help.
+2020-07-13 20:11:38 Other: [Wanted] Susie eGirl » well, you can farm dungeons fast 
+2020-07-13 20:12:04 Other: [Wanted] Susie eGirl » sometimes they drop stuff, sometimes they dont 
+2020-07-13 20:12:18 Other: MokryTampon ¯\_(ツ)_/¯ » mostly they dont 
+2020-07-13 20:12:19 Other: [Cowboy] whereisnoobie » yo wheres noobie 
+2020-07-13 20:12:21 Other: [Buckaroo] Anonymous_9 $ » yeah 
+2020-07-13 20:12:26 Other: [Buckaroo] Anonymous_9 $ » im noobie 
+2020-07-13 20:12:27 Other: Unknown command. Type "/help" for help.
+2020-07-13 20:12:35 Other: [Wanted] CataclysmAlt Kool-Aid » Sell Island Levels @ /is warp Cataclysm_Games! Highest Prices On The Realm! 
+2020-07-13 20:12:36 Other:  
+2020-07-13 20:12:36 Other:  Want to be the first to know about giveaways and updates?
+2020-07-13 20:12:36 Other:  If you're one of these people, please feel free to join our Discord. You can find this by clicking the link below.
+2020-07-13 20:12:36 Other:  
+2020-07-13 20:12:36 Other:  discord.gg/minesaga
+2020-07-13 20:12:36 Other:  
+2020-07-13 20:12:40 Other: 
+2020-07-13 20:12:40 Other:  There is a 50% sale active on our store.
+2020-07-13 20:12:40 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-13 20:12:40 Other: 
+2020-07-13 20:12:40 Other:  shop.minesaga.org
+2020-07-14 10:18:07 Other:  Hey tijsje01, welcome to MineSaga!
+2020-07-14 10:18:07 Other: 
+2020-07-14 10:18:07 Other:  You can play Skyblock, Prison or on our Arcade server!
+2020-07-14 10:18:07 Other: 
+2020-07-14 10:18:07 Other:  Walk forwards or use the Nether Star/Server Selector to choose which realm you'd like to play on.
+2020-07-14 10:18:28 Other: 
+2020-07-14 10:18:28 Other:  There is a 50% sale active on our store.
+2020-07-14 10:18:28 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:18:28 Other: 
+2020-07-14 10:18:28 Other:  shop.minesaga.org
+2020-07-14 10:18:58 Other: You are now queuing for Western.
+2020-07-14 10:18:59 Other:                                      
+2020-07-14 10:18:59 Other: 
+2020-07-14 10:18:59 Other: Welcome to Western.
+2020-07-14 10:18:59 Other: This realm was reset on the 6th of June.
+2020-07-14 10:18:59 Other: 
+2020-07-14 10:19:08 Other: [Wanted] Susie eGirl » ooof, i was afking without mask on... 
+2020-07-14 10:19:09 Other: You have incomplete Missions ready to be completed!
+2020-07-14 10:19:09 Other: Type /missions to view them and their requirements.
+2020-07-14 10:19:14 Other: [Buckaroo] Dangerdudez MLG » :D 
+2020-07-14 10:19:24 Other: natix_FBi1 » y a des francais 
+2020-07-14 10:19:24 Other: [Wanted] Susie eGirl » thats like a 20M loss :D 
+2020-07-14 10:19:35 Other: [Wanted] CataclysmAlt Kool-Aid » Thanks For Supporting Grape Kool-Aid @ /is warp Cataclysm_Games 
+2020-07-14 10:19:38 Other: [Buckaroo] Dangerdudez MLG » ouch... 
+2020-07-14 10:19:52 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:19:52 Other:  
+2020-07-14 10:19:52 Other:  Need assistance from one of our staff?
+2020-07-14 10:19:52 Other:  Sit tight! If you need assistance from our staff, either politely ask one of them in-game, or make a support ticket on our site.
+2020-07-14 10:19:52 Other:  
+2020-07-14 10:19:52 Other:  www.minesaga.net
+2020-07-14 10:19:52 Other:  
+2020-07-14 10:20:28 Other: 
+2020-07-14 10:20:28 Other:  There is a 50% sale active on our store.
+2020-07-14 10:20:28 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:20:28 Other: 
+2020-07-14 10:20:29 Other:  shop.minesaga.org
+2020-07-14 10:20:30 Other: Jackpot ┃ 39m 57s left until the Jackpot is rolled. The current value is $0.
+2020-07-14 10:20:30 Other: Votes ┃ IcySusie voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:20:34 Other: Votes ┃ IcySusie voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:20:36 Other: Votes ┃ IcySusie voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:20:45 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:20:51 Other: Lag ┃ Ground items and entities will be cleared in 1m.
+2020-07-14 10:20:52 Other:  
+2020-07-14 10:20:52 Other:  Have some spare cash?
+2020-07-14 10:20:52 Other:  We have a store that offers ranks, crates, crate keys, and much more. You can visit the store by clicking the link below.
+2020-07-14 10:20:52 Other:  
+2020-07-14 10:20:52 Other:  shop.minesaga.net
+2020-07-14 10:20:52 Other:  
+2020-07-14 10:21:36 Other: [Wanted] CataclysmAlt Kool-Aid » Sell Island Levels @ /is warp Cataclysm_Games! Highest Prices On The Realm! 
+2020-07-14 10:21:37 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:21:51 Other: Lag ┃ Ground items and entities have been cleared!
+2020-07-14 10:21:51 Other: Hey, we noticed you don't have a Discord account linked!
+2020-07-14 10:21:51 Other: You can join our Discord at the link below, and read the #sync channel for more details.
+2020-07-14 10:21:51 Other: 
+2020-07-14 10:21:51 Other: discord.gg/minesaga
+2020-07-14 10:21:51 Other: Envoys ┃ 10m until envoys drop...
+2020-07-14 10:21:52 Other:  
+2020-07-14 10:21:52 Other:  Do you want awesome rewards?
+2020-07-14 10:21:52 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-14 10:21:52 Other:  
+2020-07-14 10:22:27 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:22:29 Other: 
+2020-07-14 10:22:29 Other:  There is a 50% sale active on our store.
+2020-07-14 10:22:29 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:22:29 Other: 
+2020-07-14 10:22:29 Other:  shop.minesaga.org
+2020-07-14 10:22:51 Other: Lag ┃ Ground items and entities will be cleared in 4m.
+2020-07-14 10:22:52 Other:  
+2020-07-14 10:22:52 Other:  Do you want awesome rewards?
+2020-07-14 10:22:52 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-14 10:22:52 Other:  
+2020-07-14 10:23:18 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:23:37 Other: [Wanted] CataclysmAlt Kool-Aid » Have spare value blocks lying around? Sell them @ /is warp Cataclysm_Games! 
+2020-07-14 10:23:52 Other:  
+2020-07-14 10:23:52 Other:  Want to be the first to know about giveaways and updates?
+2020-07-14 10:23:52 Other:  If you're one of these people, please feel free to join our Discord. You can find this by clicking the link below.
+2020-07-14 10:23:52 Other:  
+2020-07-14 10:23:52 Other:  discord.gg/minesaga
+2020-07-14 10:23:52 Other:  
+2020-07-14 10:24:08 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:24:29 Other: 
+2020-07-14 10:24:29 Other:  There is a 50% sale active on our store.
+2020-07-14 10:24:29 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:24:30 Other: 
+2020-07-14 10:24:30 Other:  shop.minesaga.org
+2020-07-14 10:24:53 Other:  
+2020-07-14 10:24:53 Other:  Have some spare cash?
+2020-07-14 10:24:53 Other:  We have a store that offers ranks, crates, crate keys, and much more. You can visit the store by clicking the link below.
+2020-07-14 10:24:53 Other:  
+2020-07-14 10:24:53 Other:  shop.minesaga.net
+2020-07-14 10:24:53 Other:  
+2020-07-14 10:24:58 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:25:00 Other: [Wanted] Susie eGirl » i got only a sponge and a void chest from ender mage... smh 
+2020-07-14 10:25:22 Other: [Buckaroo] Dangerdudez MLG » im sorry for that :( 
+2020-07-14 10:25:31 Other: Jackpot ┃ 34m 57s left until the Jackpot is rolled. The current value is $0.
+2020-07-14 10:25:31 Other: [Wanted] Susie eGirl » it happens :D 
+2020-07-14 10:25:39 Other: [Wanted] CataclysmAlt Kool-Aid » Thanks For Supporting Grape Kool-Aid @ /is warp Cataclysm_Games 
+2020-07-14 10:25:42 Other: [Buckaroo] Dangerdudez MLG » i need to save up for 160 mil cause i only need 2$ for the next rank :D:D 
+2020-07-14 10:25:49 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:25:50 Other: [Buckaroo] Dangerdudez MLG » soo close :) 
+2020-07-14 10:25:52 Other: Lag ┃ Ground items and entities will be cleared in 1m.
+2020-07-14 10:25:53 Other:  
+2020-07-14 10:25:53 Other:  What's a Vote Party?
+2020-07-14 10:25:53 Other:  When the server hits the vote goal, we give all online players a Crate Key. Cool, right?
+2020-07-14 10:25:53 Other:  
+2020-07-14 10:26:30 Other: 
+2020-07-14 10:26:30 Other:  There is a 50% sale active on our store.
+2020-07-14 10:26:30 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:26:30 Other: 
+2020-07-14 10:26:30 Other:  shop.minesaga.org
+2020-07-14 10:26:35 Other: [Wanted] Susie eGirl » you can pay for this later 
+2020-07-14 10:26:39 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:26:52 Other: Lag ┃ Ground items and entities have been cleared!
+2020-07-14 10:26:52 Other: Envoys ┃ 5m until envoys drop...
+2020-07-14 10:26:52 Other: Hey, we noticed you don't have a Discord account linked!
+2020-07-14 10:26:52 Other: You can join our Discord at the link below, and read the #sync channel for more details.
+2020-07-14 10:26:52 Other: 
+2020-07-14 10:26:52 Other: discord.gg/minesaga
+2020-07-14 10:26:53 Other:  
+2020-07-14 10:26:53 Other:  Do you want awesome rewards?
+2020-07-14 10:26:53 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-14 10:26:53 Other:  
+2020-07-14 10:26:58 Other: [Buckaroo] Dangerdudez MLG » oh my gosh thanks 
+2020-07-14 10:27:05 Other: [Buckaroo] Dangerdudez MLG » what do i owe you 
+2020-07-14 10:27:15 Other: [Buckaroo] Dangerdudez MLG » 240mil?? 
+2020-07-14 10:27:18 Other: [Wanted] Susie eGirl » 200M will do it when you have the money 
+2020-07-14 10:27:21 Other: [Wanted] Susie eGirl » :) 
+2020-07-14 10:27:26 Other: [Buckaroo] Dangerdudez MLG » okay i certainly will :D:D 
+2020-07-14 10:27:30 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:27:34 Other: [Wanted] kapi ✔ » hey susie 
+2020-07-14 10:27:40 Other: [Wanted] CataclysmAlt Kool-Aid » Sell Island Levels @ /is warp Cataclysm_Games! Highest Prices On The Realm! 
+2020-07-14 10:27:40 Other: [Wanted] Susie eGirl » hey o/ 
+2020-07-14 10:27:52 Other: Lag ┃ Ground items and entities will be cleared in 4m.
+2020-07-14 10:27:52 Other: Envoys ┃ 4m until envoys drop...
+2020-07-14 10:27:53 Other:  
+2020-07-14 10:27:53 Other:  Make sure you're not in violation of our rules.
+2020-07-14 10:27:53 Other:  We don't allow trading items for real life money. Make sure you're aware of our rules by keeping up to date on our Discord.
+2020-07-14 10:27:53 Other:  
+2020-07-14 10:27:57 Other: Dangerdudez has made a purchase on our store and ranked up to Thief.
+2020-07-14 10:27:57 Other: You can purchase crates, items and more with /buy.
+2020-07-14 10:28:02 Other: [Thief] Dangerdudez MLG » YAY :D 
+2020-07-14 10:28:05 Other: [Wanted] kapi ✔ » gg\ 
+2020-07-14 10:28:20 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:28:30 Other: 
+2020-07-14 10:28:31 Other:  There is a 50% sale active on our store.
+2020-07-14 10:28:31 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:28:31 Other: 
+2020-07-14 10:28:31 Other:  shop.minesaga.org
+2020-07-14 10:28:34 Other: [Thief] Dangerdudez MLG » thanks 
+2020-07-14 10:28:40 Other: [Wanted] Susie eGirl » you can use that now :P 
+2020-07-14 10:28:40 Other: [Thief] Dangerdudez MLG » now i can mine my spawners :D 
+2020-07-14 10:28:52 Other: Envoys ┃ 3m until envoys drop...
+2020-07-14 10:28:53 Other:  
+2020-07-14 10:28:53 Other:  Have some spare cash?
+2020-07-14 10:28:53 Other:  We have a store that offers ranks, crates, crate keys, and much more. You can visit the store by clicking the link below.
+2020-07-14 10:28:53 Other:  
+2020-07-14 10:28:53 Other:  shop.minesaga.net
+2020-07-14 10:28:53 Other:  
+2020-07-14 10:29:10 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:29:36 Other: [Saga] Shxi Ghost » nk 
+2020-07-14 10:29:41 Other: [Wanted] CataclysmAlt Kool-Aid » Have spare value blocks lying around? Sell them @ /is warp Cataclysm_Games! 
+2020-07-14 10:29:52 Other: Envoys ┃ 2m until envoys drop...
+2020-07-14 10:29:53 Other:  
+2020-07-14 10:29:53 Other:  Need assistance from one of our staff?
+2020-07-14 10:29:53 Other:  Sit tight! If you need assistance from our staff, either politely ask one of them in-game, or make a support ticket on our site.
+2020-07-14 10:29:53 Other:  
+2020-07-14 10:29:53 Other:  www.minesaga.net
+2020-07-14 10:29:53 Other:  
+2020-07-14 10:30:01 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:30:31 Other: 
+2020-07-14 10:30:31 Other: Jackpot ┃ 29m 57s left until the Jackpot is rolled. The current value is $0.
+2020-07-14 10:30:31 Other:  There is a 50% sale active on our store.
+2020-07-14 10:30:31 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:30:31 Other: 
+2020-07-14 10:30:31 Other:  shop.minesaga.org
+2020-07-14 10:30:36 Other: Vote Party ┃ 247 more votes are needed for a Vote Party!
+2020-07-14 10:30:51 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:30:52 Other: Envoys ┃ 1m until envoys drop...
+2020-07-14 10:30:52 Other: Lag ┃ Ground items and entities will be cleared in 1m.
+2020-07-14 10:30:53 Other:  
+2020-07-14 10:30:53 Other:  Do you want awesome rewards?
+2020-07-14 10:30:53 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-14 10:30:53 Other:  
+2020-07-14 10:31:26 Other: Votes ┃ TheRealFLIXcraft voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:31:29 Other: Outpost ┃ The Outpost will be decaptured in 25s.
+2020-07-14 10:31:34 Other: Outpost ┃ The Outpost will be decaptured in 20s.
+2020-07-14 10:31:42 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:31:43 Other: [Wanted] CataclysmAlt Kool-Aid » Thanks For Supporting Grape Kool-Aid @ /is warp Cataclysm_Games 
+2020-07-14 10:31:44 Other: Outpost ┃ The Outpost will be decaptured in 10s.
+2020-07-14 10:31:49 Other: Outpost ┃ The Outpost will be decaptured in 5s.
+2020-07-14 10:31:52 Other: Farming Event ┃ 15m until event starts at /warp farm.
+2020-07-14 10:31:52 Other: Lag ┃ Ground items and entities have been cleared!
+2020-07-14 10:31:52 Other: Envoys ┃ The Envoys have been dropped!
+2020-07-14 10:31:52 Other: Hey, we noticed you don't have a Discord account linked!
+2020-07-14 10:31:52 Other: You can join our Discord at the link below, and read the #sync channel for more details.
+2020-07-14 10:31:52 Other: 
+2020-07-14 10:31:52 Other: discord.gg/minesaga
+2020-07-14 10:31:53 Other:  
+2020-07-14 10:31:53 Other:  Do you want awesome rewards?
+2020-07-14 10:31:53 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-14 10:31:53 Other:  
+2020-07-14 10:31:54 Other: Outpost ┃ The Outpost has been decaptured.
+2020-07-14 10:31:55 Other: Outpost ┃ No one currently holds the Outpost.
+2020-07-14 10:32:24 Other: Outpost ┃ The Outpost will be captured in 1m 30s by Kebab0.
+2020-07-14 10:32:31 Other: 
+2020-07-14 10:32:32 Other:  There is a 50% sale active on our store.
+2020-07-14 10:32:32 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:32:32 Other: 
+2020-07-14 10:32:32 Other:  shop.minesaga.org
+2020-07-14 10:32:32 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:32:52 Other: Lag ┃ Ground items and entities will be cleared in 4m.
+2020-07-14 10:32:53 Other:  
+2020-07-14 10:32:53 Other:  Do you want awesome rewards?
+2020-07-14 10:32:53 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-14 10:32:53 Other:  
+2020-07-14 10:32:54 Other: Outpost ┃ The Outpost will be captured in 1m by Kebab0.
+2020-07-14 10:33:03 Other: Envoys ┃ natix_FBi1 has claimed Common Envoy. (9 Remain!)
+2020-07-14 10:33:05 Other: Votes ┃ _Gerix88 voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:33:11 Other: Votes ┃ _Gerix88 voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:33:22 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:33:29 Other: Outpost ┃ The Outpost will be captured in 25s by Kebab0.
+2020-07-14 10:33:34 Other: Outpost ┃ The Outpost will be captured in 20s by Kebab0.
+2020-07-14 10:33:39 Other: Envoys ┃ natix_FBi1 has claimed Legendary Envoy. (8 Remain!)
+2020-07-14 10:33:44 Other: [Wanted] CataclysmAlt Kool-Aid » Sell Island Levels @ /is warp Cataclysm_Games! Highest Prices On The Realm! 
+2020-07-14 10:33:44 Other: Outpost ┃ The Outpost will be captured in 10s by Kebab0.
+2020-07-14 10:33:49 Other: Outpost ┃ The Outpost will be captured in 5s by Kebab0.
+2020-07-14 10:33:53 Other:  
+2020-07-14 10:33:53 Other:  Want to be the first to know about giveaways and updates?
+2020-07-14 10:33:53 Other:  If you're one of these people, please feel free to join our Discord. You can find this by clicking the link below.
+2020-07-14 10:33:53 Other:  
+2020-07-14 10:33:53 Other:  discord.gg/minesaga
+2020-07-14 10:33:53 Other:  
+2020-07-14 10:33:54 Other: Outpost ┃ The Outpost has been captured by Kebab0.
+2020-07-14 10:34:13 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:34:17 Other: Envoys ┃ natix_FBi1 has claimed Common Envoy. (7 Remain!)
+2020-07-14 10:34:32 Other: 
+2020-07-14 10:34:32 Other:  There is a 50% sale active on our store.
+2020-07-14 10:34:32 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:34:32 Other: 
+2020-07-14 10:34:32 Other:  shop.minesaga.org
+2020-07-14 10:34:53 Other:  
+2020-07-14 10:34:53 Other:  Have some spare cash?
+2020-07-14 10:34:53 Other:  We have a store that offers ranks, crates, crate keys, and much more. You can visit the store by clicking the link below.
+2020-07-14 10:34:53 Other:  
+2020-07-14 10:34:53 Other:  shop.minesaga.net
+2020-07-14 10:34:53 Other:  
+2020-07-14 10:34:55 Other: Envoys ┃ natix_FBi1 has claimed Common Envoy. (6 Remain!)
+2020-07-14 10:35:03 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:35:17 Other: Votes ┃ wolf_ranger voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:35:31 Other: Jackpot ┃ 24m 56s left until the Jackpot is rolled. The current value is $0.
+2020-07-14 10:35:35 Other: Envoys ┃ natix_FBi1 has claimed Common Envoy. (5 Remain!)
+2020-07-14 10:35:46 Other: [Wanted] CataclysmAlt Kool-Aid » Have spare value blocks lying around? Sell them @ /is warp Cataclysm_Games! 
+2020-07-14 10:35:52 Other: Lag ┃ Ground items and entities will be cleared in 1m.
+2020-07-14 10:35:53 Other:  
+2020-07-14 10:35:53 Other:  What's a Vote Party?
+2020-07-14 10:35:53 Other:  When the server hits the vote goal, we give all online players a Crate Key. Cool, right?
+2020-07-14 10:35:53 Other:  
+2020-07-14 10:35:59 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:36:15 Other: Envoys ┃ natix_FBi1 has claimed Legendary Envoy. (4 Remain!)
+2020-07-14 10:36:33 Other: 
+2020-07-14 10:36:33 Other:  There is a 50% sale active on our store.
+2020-07-14 10:36:33 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:36:33 Other: 
+2020-07-14 10:36:33 Other:  shop.minesaga.org
+2020-07-14 10:36:50 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:36:52 Other: Farming Event ┃ 10m until event starts at /warp farm.
+2020-07-14 10:36:52 Other: Hey, we noticed you don't have a Discord account linked!
+2020-07-14 10:36:53 Other: You can join our Discord at the link below, and read the #sync channel for more details.
+2020-07-14 10:36:53 Other: 
+2020-07-14 10:36:53 Other: discord.gg/minesaga
+2020-07-14 10:36:53 Other: Lag ┃ Ground items and entities have been cleared!
+2020-07-14 10:36:54 Other:  
+2020-07-14 10:36:54 Other:  Do you want awesome rewards?
+2020-07-14 10:36:54 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-14 10:36:54 Other:  
+2020-07-14 10:36:57 Other: Envoys ┃ natix_FBi1 has claimed Legendary Envoy. (3 Remain!)
+2020-07-14 10:37:40 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:37:47 Other: [Wanted] CataclysmAlt Kool-Aid » Thanks For Supporting Grape Kool-Aid @ /is warp Cataclysm_Games 
+2020-07-14 10:37:53 Other: Lag ┃ Ground items and entities will be cleared in 4m.
+2020-07-14 10:37:54 Other:  
+2020-07-14 10:37:54 Other:  Make sure you're not in violation of our rules.
+2020-07-14 10:37:54 Other:  We don't allow trading items for real life money. Make sure you're aware of our rules by keeping up to date on our Discord.
+2020-07-14 10:37:54 Other:  
+2020-07-14 10:38:30 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:38:33 Other: 
+2020-07-14 10:38:33 Other:  There is a 50% sale active on our store.
+2020-07-14 10:38:33 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:38:33 Other: 
+2020-07-14 10:38:33 Other:  shop.minesaga.org
+2020-07-14 10:38:47 Other: Envoys ┃ natix_FBi1 has claimed Legendary Envoy. (2 Remain!)
+2020-07-14 10:38:54 Other:  
+2020-07-14 10:38:54 Other:  Have some spare cash?
+2020-07-14 10:38:54 Other:  We have a store that offers ranks, crates, crate keys, and much more. You can visit the store by clicking the link below.
+2020-07-14 10:38:54 Other:  
+2020-07-14 10:38:54 Other:  shop.minesaga.net
+2020-07-14 10:38:54 Other:  
+2020-07-14 10:39:21 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:39:28 Other: Envoys ┃ natix_FBi1 has claimed Common Envoy. (1 Remain!)
+2020-07-14 10:39:29 Other: [Thief] Dangerdudez MLG » has he opened all of the envoys :D:D 
+2020-07-14 10:39:37 Other: natix_FBi1 » :) 
+2020-07-14 10:39:48 Other: [Wanted] CataclysmAlt Kool-Aid » Sell Island Levels @ /is warp Cataclysm_Games! Highest Prices On The Realm! 
+2020-07-14 10:39:54 Other:  
+2020-07-14 10:39:54 Other:  Need assistance from one of our staff?
+2020-07-14 10:39:54 Other:  Sit tight! If you need assistance from our staff, either politely ask one of them in-game, or make a support ticket on our site.
+2020-07-14 10:39:54 Other:  
+2020-07-14 10:39:54 Other:  www.minesaga.net
+2020-07-14 10:39:54 Other:  
+2020-07-14 10:40:03 Other: Envoys ┃ natix_FBi1 has claimed Common Envoy. (0 Remain!)
+2020-07-14 10:40:03 Other: Envoys ┃ Envoys have all been claimed!
+2020-07-14 10:40:11 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:40:32 Other: Jackpot ┃ 19m 56s left until the Jackpot is rolled. The current value is $0.
+2020-07-14 10:40:34 Other: 
+2020-07-14 10:40:34 Other:  There is a 50% sale active on our store.
+2020-07-14 10:40:34 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:40:34 Other: 
+2020-07-14 10:40:34 Other:  shop.minesaga.org
+2020-07-14 10:40:53 Other: Lag ┃ Ground items and entities will be cleared in 1m.
+2020-07-14 10:40:54 Other:  
+2020-07-14 10:40:54 Other:  Have some spare cash?
+2020-07-14 10:40:54 Other:  We have a store that offers ranks, crates, crate keys, and much more. You can visit the store by clicking the link below.
+2020-07-14 10:40:54 Other:  
+2020-07-14 10:40:54 Other:  shop.minesaga.net
+2020-07-14 10:40:54 Other:  
+2020-07-14 10:41:01 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:41:49 Other: [Wanted] CataclysmAlt Kool-Aid » Have spare value blocks lying around? Sell them @ /is warp Cataclysm_Games! 
+2020-07-14 10:41:51 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:41:53 Other: Farming Event ┃ 5m until event starts at /warp farm.
+2020-07-14 10:41:53 Other: Hey, we noticed you don't have a Discord account linked!
+2020-07-14 10:41:53 Other: You can join our Discord at the link below, and read the #sync channel for more details.
+2020-07-14 10:41:53 Other: 
+2020-07-14 10:41:53 Other: discord.gg/minesaga
+2020-07-14 10:41:53 Other: Lag ┃ Ground items and entities have been cleared!
+2020-07-14 10:41:54 Other:  
+2020-07-14 10:41:54 Other:  Do you want awesome rewards?
+2020-07-14 10:41:54 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-14 10:41:54 Other:  
+2020-07-14 10:42:34 Other: 
+2020-07-14 10:42:34 Other:  There is a 50% sale active on our store.
+2020-07-14 10:42:34 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:42:34 Other: 
+2020-07-14 10:42:35 Other:  shop.minesaga.org
+2020-07-14 10:42:42 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:42:49 Other: Votes ┃ Goridan720 voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:42:53 Other: Votes ┃ Goridan720 voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:42:53 Other: Farming Event ┃ 4m until event starts at /warp farm.
+2020-07-14 10:42:53 Other: Lag ┃ Ground items and entities will be cleared in 4m.
+2020-07-14 10:42:54 Other:  
+2020-07-14 10:42:54 Other:  Do you want awesome rewards?
+2020-07-14 10:42:54 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-14 10:42:54 Other:  
+2020-07-14 10:42:56 Other: Votes ┃ Goridan720 voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:42:56 Other: Vote Party ┃ 240 more votes are needed for a Vote Party!
+2020-07-14 10:43:32 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:43:51 Other: [Wanted] CataclysmAlt Kool-Aid » Thanks For Supporting Grape Kool-Aid @ /is warp Cataclysm_Games 
+2020-07-14 10:43:53 Other: Farming Event ┃ 3m until event starts at /warp farm.
+2020-07-14 10:43:54 Other:  
+2020-07-14 10:43:54 Other:  Want to be the first to know about giveaways and updates?
+2020-07-14 10:43:54 Other:  If you're one of these people, please feel free to join our Discord. You can find this by clicking the link below.
+2020-07-14 10:43:54 Other:  
+2020-07-14 10:43:54 Other:  discord.gg/minesaga
+2020-07-14 10:43:54 Other:  
+2020-07-14 10:44:23 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:44:35 Other: 
+2020-07-14 10:44:35 Other:  There is a 50% sale active on our store.
+2020-07-14 10:44:35 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:44:35 Other: 
+2020-07-14 10:44:35 Other:  shop.minesaga.org
+2020-07-14 10:44:53 Other: Farming Event ┃ 2m until event starts at /warp farm.
+2020-07-14 10:44:54 Other:  
+2020-07-14 10:44:54 Other:  Do you want awesome rewards?
+2020-07-14 10:44:54 Other:  You can vote daily and receive money, crate keys, and so much more! You can get more information with /vote.
+2020-07-14 10:44:54 Other:  
+2020-07-14 10:45:07 Other: Votes ┃ YearLingFool710 voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:45:13 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:45:14 Other: Votes ┃ YearLingFool710 voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:45:23 Other: Votes ┃ YearLingFool710 voted and received 1x Vote Key, experience, money, fly and more! /vote
+2020-07-14 10:45:32 Other: Jackpot ┃ 14m 55s left until the Jackpot is rolled. The current value is $0.
+2020-07-14 10:45:52 Other: [Wanted] CataclysmAlt Kool-Aid » Sell Island Levels @ /is warp Cataclysm_Games! Highest Prices On The Realm! 
+2020-07-14 10:45:53 Other: Lag ┃ Ground items and entities will be cleared in 1m.
+2020-07-14 10:45:53 Other: Farming Event ┃ 1m until event starts at /warp farm.
+2020-07-14 10:45:54 Other:  
+2020-07-14 10:45:54 Other:  What's a Vote Party?
+2020-07-14 10:45:54 Other:  When the server hits the vote goal, we give all online players a Crate Key. Cool, right?
+2020-07-14 10:45:54 Other:  
+2020-07-14 10:46:08 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:46:35 Other: 
+2020-07-14 10:46:35 Other:  There is a 50% sale active on our store.
+2020-07-14 10:46:35 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:46:36 Other: 
+2020-07-14 10:46:36 Other:  shop.minesaga.org
+2020-07-14 10:46:53 Other: Hey, we noticed you don't have a Discord account linked!
+2020-07-14 10:46:53 Other: You can join our Discord at the link below, and read the #sync channel for more details.
+2020-07-14 10:46:53 Other: 
+2020-07-14 10:46:53 Other: discord.gg/minesaga
+2020-07-14 10:46:54 Other: Farming Event ┃ Event has started! /warp farm
+2020-07-14 10:46:54 Other: Lag ┃ Ground items and entities have been cleared!
+2020-07-14 10:46:55 Other:  
+2020-07-14 10:46:55 Other:  Have some spare cash?
+2020-07-14 10:46:55 Other:  We have a store that offers ranks, crates, crate keys, and much more. You can visit the store by clicking the link below.
+2020-07-14 10:46:55 Other:  
+2020-07-14 10:46:55 Other:  shop.minesaga.net
+2020-07-14 10:46:55 Other:  
+2020-07-14 10:47:02 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:47:53 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:47:53 Other: [Wanted] CataclysmAlt Kool-Aid » Have spare value blocks lying around? Sell them @ /is warp Cataclysm_Games! 
+2020-07-14 10:47:53 Other: Lag ┃ Ground items and entities will be cleared in 4m.
+2020-07-14 10:47:54 Other:  
+2020-07-14 10:47:54 Other:  Make sure you're not in violation of our rules.
+2020-07-14 10:47:55 Other:  We don't allow trading items for real life money. Make sure you're aware of our rules by keeping up to date on our Discord.
+2020-07-14 10:47:55 Other:  
+2020-07-14 10:48:36 Other: 
+2020-07-14 10:48:36 Other:  There is a 50% sale active on our store.
+2020-07-14 10:48:36 Other:  You can purchase ranks, crates and more with /buy.
+2020-07-14 10:48:36 Other: 
+2020-07-14 10:48:36 Other:  shop.minesaga.org
+2020-07-14 10:48:43 Other: Unknown command. Type "/help" for help.
+2020-07-14 10:48:53 Other: [Thief] Dangerdudez MLG » some one go in the cave- there's a ton of mobs 
+2020-07-14 10:48:55 Other:  
+2020-07-14 10:48:55 Other:  Have some spare cash?
+2020-07-14 10:48:55 Other:  We have a store that offers ranks, crates, crate keys, and much more. You can visit the store by clicking the link below.
+2020-07-14 10:48:55 Other:  
+2020-07-14 10:48:55 Other:  shop.minesaga.net
+2020-07-14 10:48:55 Other:  
+2020-07-14 10:49:05 Other: [Thief] Dangerdudez MLG » i need help 
+2020-07-14 10:49:13 Other: natix_FBi1 » for 
+2020-07-14 10:49:18 Other: [Thief] Dangerdudez MLG » in the cave 
